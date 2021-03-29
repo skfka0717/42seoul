@@ -1,1 +1,1 @@
-# 42seoul shell00
+# 42seoul
